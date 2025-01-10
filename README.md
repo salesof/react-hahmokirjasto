@@ -4,4 +4,4 @@ I developed this project during two weeks as my training project for a web devel
 
 I have created this website with XAMPP's Apache web server and MySQL Database using React, Vite, node.js, express, bcrypt, cors and multer.
 
-Use npm run dev command in react-hahmokirjasto folder and npm start in backend folder to start the project.
+Run the sql statements from react_hahmokirjasto.sql file in MySQL to create the database with existing data. Use npm run dev command in react-hahmokirjasto folder and npm start in backend folder to start the project.
